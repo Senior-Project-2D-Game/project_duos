@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
   - Ground
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1446878877
+    locked: 0
+  - name: Geyser
+    uniqueID: 3782229797
+    locked: 0
+  - name: Ground
+    uniqueID: 956438417
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 3136338415
+    locked: 0
+  - name: Player
+    uniqueID: 4122569577
     locked: 0

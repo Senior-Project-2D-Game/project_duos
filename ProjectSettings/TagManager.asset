@@ -47,6 +47,9 @@ TagManager:
   - name: Geyser
     uniqueID: 3782229797
     locked: 0
+  - name: Blueprint
+    uniqueID: 273781843
+    locked: 0
   - name: Ground
     uniqueID: 956438417
     locked: 0

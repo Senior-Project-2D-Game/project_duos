@@ -59,3 +59,6 @@ TagManager:
   - name: Player
     uniqueID: 4122569577
     locked: 0
+  - name: LayerOverlay
+    uniqueID: 4082374773
+    locked: 0

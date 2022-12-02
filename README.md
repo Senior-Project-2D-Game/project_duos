@@ -1,14 +1,11 @@
 # project_duos
 
-## Senior Project Proposal
 ## Department of Computer Science
 ## Calvin University
 
 Title: Du-OS: a 2D, 2-player platformer game that builds teamwork and bridges gaps
 
 Author(s): Henry Baldacci, Sean Ebenmelu, Ifeanyichukwu Onyeanakwe
-
-Date: September 5, 2022
 
 Advisor: Professor Harry Plantinga
 
